@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -298,7 +297,7 @@
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
-                    <img class="site-logo" src="/content/images/2018/12/Logo-1.png" alt="Secjuice" />
+                    <img class="site-logo" src="https://www.secjuice.com/content/images/2018/12/Logo-1.png" alt="Secjuice" />
             </h1>
             <h2 class="site-description"> NON-PROFIT INFOSEC GOODNESS</h2>
         </div>
@@ -1418,7 +1417,7 @@
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous">
     </script>
-    <script type="text/javascript" src="/assets/js/jquery.fitvids.js?v=e8bfc3cf04"></script>
+    <script type="text/javascript" src="https://www.secjuice.com/assets/js/jquery.fitvids.js?v=e8bfc3cf04"></script>
 
     <script>
         // maxPages is a global variable that is needed to determine
@@ -1426,7 +1425,7 @@
         // we reached the last page already.
         var maxPages = parseInt('15');
     </script>
-    <script src="/assets/js/infinitescroll.js?v=e8bfc3cf04"></script>
+    <script src="https://www.secjuice.com/assets/js/infinitescroll.js?v=e8bfc3cf04"></script>
 
     
 
