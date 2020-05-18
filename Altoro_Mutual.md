@@ -15,14 +15,13 @@ Lets start off with amass, amass is a great tool that can do tons of DNS enumera
 Amass is already pre installed with kali btw
 Make sure you run `apt upgrade` to get the latest version of amass
 
-If you're not running kali you can download amass <a href="./github.com/OWASP/Amass">Here</a>
+If you're not running kali you can download amass <a href="https://github.com/OWASP/Amass">Here</a>
 
 For the amass command I ran `amass enum -d testfire.net`
 
 You can see for the output we got
 
-`
-testfire.net
+`testfire.net
 
 demo.testfire.net
 
@@ -36,8 +35,7 @@ demo2.testfire.net
 
 localhost.testfire.net
 
-ftp.testfire.net
-`
+ftp.testfire.net`
 
 BTW all these domains just redirect to the main domain so nothing special
 
