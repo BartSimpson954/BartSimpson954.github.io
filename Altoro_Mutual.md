@@ -48,9 +48,9 @@ Ight sweet that's our output I guess..
 ### Subfinder
 
 Lets use another DNS enumeration tool, Subfinder is used for finding subdomains and bla bla bla.
-You can install it <a href="./github.com/projectdiscovery/subfinder">Here</a>
+You can install it <a href="https://github.com/projectdiscovery/subfinder">Here</a>
 
-You need to install go lang as well you can install it <a href="./golang.org/doc/install">Here</a>
+You need to install go lang as well you can install it <a href="https://golang.org/doc/install">Here</a>
 
 ## Sub-Domain Takeover
 
