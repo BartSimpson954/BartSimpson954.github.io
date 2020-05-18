@@ -15,7 +15,7 @@ Lets start off with amass, amass is a great tool that can do tons of DNS enumera
 Amass is already pre installed with kali btw
 Make sure you run `apt upgrade` to get the latest version of amass
 
-If you're not running kali you can download amass <a href="./github.com/OWASP/Amass">Here/a>
+If you're not running kali you can download amass <a href="./github.com/OWASP/Amass">Here</a>
 
 For the amass command I ran `amass enum -d testfire.net`
 
@@ -49,9 +49,9 @@ Ight sweet that's our output I guess..
 ### Subfinder
 
 Lets use another DNS enumeration tool, Subfinder is used for finding subdomains and bla bla bla.
-You can install it <a href="./github.com/projectdiscovery/subfinder">Here/a>
+You can install it <a href="./github.com/projectdiscovery/subfinder">Here</a>
 
-You need to install go lang as well you can install it <a href="./golang.org/doc/install">Here/a>
+You need to install go lang as well you can install it <a href="./golang.org/doc/install">Here</a>
 
 ## Sub-Domain Takeover
 
