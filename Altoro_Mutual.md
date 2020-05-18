@@ -52,6 +52,46 @@ You can install it <a href="https://github.com/projectdiscovery/subfinder">Here<
 
 You need to install go lang as well you can install it <a href="https://golang.org/doc/install">Here</a>
 
+Oki Doki when your done installing that bull shniki then we can run Subfinder and see what we GET lulz
+
+I ran the command `subfinder -d testfire.net`
+
+and ba da bing ba da boom
+we got
+
+Now that we got both files lets combine the two
+and use `sort -u` ovi, KLSDAJFLKJADFJDFJA
+
+This is the final output
+
+`20.testfire.net`
+
+`altoro.testfire.net`
+
+`demo2.testfire.net`
+
+`demo-analytics.testfire.net`
+
+`demo.testfire.net`
+
+`domain2.testfire.net`
+
+`evil.testfire.net`
+
+`ftp.testfire.net`
+
+`httpdemo.testfire.net`
+
+`localhost.testfire.net`
+
+`srchttpdemo.testfire.net`
+
+`testfire.net`
+
+`testsite.testfire.net`
+
+`www.testfire.net`
+
 ## Sub-Domain Takeover
 
 ## CORS misconfigurations
