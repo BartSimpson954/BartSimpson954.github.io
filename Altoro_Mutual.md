@@ -22,19 +22,12 @@ For the amass command I ran `amass enum -d testfire.net`
 You can see for the output we got
 
 `testfire.net
-
 demo.testfire.net
-
 evil.testfire.net
-
 altoro.testfire.net
-
 www.testfire.net
-
 demo2.testfire.net
-
 localhost.testfire.net
-
 ftp.testfire.net`
 
 BTW all these domains just redirect to the main domain so nothing special
