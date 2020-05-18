@@ -1,13 +1,13 @@
-#Altoro Mutual
+# Altoro Mutual
 
-##Overview
+## Overview
 
-##Sub-Domain Enumeration
+## Sub-Domain Enumeration
 
-##Sub-Domain Takeover
+## Sub-Domain Takeover
 
-##CORS misconfigurations
+## CORS misconfigurations
 
-##Network Enumeration
+## Network Enumeration
 
-##Website Enumeration
+## Website Enumeration
